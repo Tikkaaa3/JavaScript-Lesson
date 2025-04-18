@@ -9,7 +9,7 @@ const oneLine = () => 1 + 2; // if it is one line arrow function, dont need to u
     return;
   }
   console.log(value, index);
-  console.log("test");
+  console.log("text from main branch");
 });
 
 const object1 = {
